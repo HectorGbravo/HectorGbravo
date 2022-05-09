@@ -19,9 +19,25 @@
   <a href="https://twitter.com/mexmovil" target="_blank"> 
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
    </a>
-  
+   <br>
   <img src="https://komarev.com/ghpvc/?username=HectorGbravo&style=flat-square&color=blue" alt=""/>
 </div>
+<hr>
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+<div align="center">
+  <h2> :man_technologist:About me: </h2>
+  I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Mexico.
+
+- 🔭 I’m currently working on a trainee program from through Microsoft Mexico's LaunchX Program
+- 🌱 I’m currently learning to be a fullstack developer through Microsoft Mexico's LaunchX Program 
+- 👯 I’m looking to collaborate in a company that allows me to integrate as a Project Leader or as a Jr. Fullstack developer.
+<br>
+<hr>
+
+  
+
 
 
 <!--
@@ -34,12 +50,4 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
