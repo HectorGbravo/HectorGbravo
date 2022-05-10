@@ -59,14 +59,20 @@
   <img src="https://github.com/HectorGbravo/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/HectorGbravo/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL"  alt="PostgreSQL" width="40" height="40"/>&nbsp;
+   
+</div>
+<br>
+<hr>
   
- 
-  
+<div align="center">
+  <h2>:fire: My Stats : </h2>
+  <br>
 </div>
   
-
-
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=HectorGbravo&theme=dark&background=000000)](https://git.io/streak-stats)
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HectorGbravo&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  
 <!--
 **HectorGbravo/HectorGbravo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
